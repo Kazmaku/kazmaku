@@ -1,7 +1,7 @@
-<h1>=AboutMe=</h1>
+<h1>AboutMe</h1>
 <p>I'm a Student in Taiwan and also an a-little-Developer.</br>
     Keening on Coding and studying CyberSecurity</p>
-<h2>=Socials=</h2>
+<h2>Socials</h2>
 <a href="https://discord.com/users/53150120979070978">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord">
 </a>
