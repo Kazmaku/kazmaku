@@ -2,9 +2,11 @@
 I'm a Student in Taiwan and also an a-little-Developer.</br>
 Keening on Coding and studying CyberSecurity
 # 📊 GitHub Stats:
+![Kazmaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazmaku&theme=ayu-mirage&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api?username=Kazmaku&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kazmaku&theme=ayu-mirage&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazmaku&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/531501209790709782) 
